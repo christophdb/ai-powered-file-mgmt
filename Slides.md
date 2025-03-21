@@ -80,7 +80,7 @@ March 21th, 2025, LMU München
 
 ---
 
-<!-- _header: "So, some clever guys tried to use AI with their secret data, but it didn't quite work out as planned. Samsung employees ended up leaking their secret trade data to ChatGPT. It was a bad idea, and it highlights the risks of using AI tools with sensitive information." -->
+<!-- So, some clever guys tried to use AI with their secret data, but it didn't quite work out as planned. Samsung employees ended up leaking their secret trade data to ChatGPT. It was a bad idea, and it highlights the risks of using AI tools with sensitive information. -->
 
 ![bg auto](./img/samsung-leak.png)
 
