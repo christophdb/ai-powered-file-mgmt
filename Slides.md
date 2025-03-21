@@ -240,8 +240,8 @@ Thank you, and I'm happy to take any questions."
 
 ![w:350px](./img/qr-code.png)
 
-- online: https://christophdb.github.io/ai-powered-file-management/.
-- pdf: https://github.com/christophdb/ai-powered-file-management/blob/main/Slides.pdf
+- online: https://christophdb.github.io/ai-powered-file-mgmt/.
+- pdf: https://github.com/christophdb/ai-powered-file-mgmt/blob/main/Slides.pdf
 
 ---
 
